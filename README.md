@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=toneba" alt="Solved.ac Profile">
-  <img src="https://github-readme-stats.vercel.app/api?username=peachPetal&show_icons=true&theme=dark&width=400" alt="peachPetal's GitHub stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachPetal&layout=demo&theme=dark&width=400" alt="peachPetal's GitHub stats" width="400">
 </p>
